@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Car Availability in Singapore</string>
+    <string name="filterBtn">Show All Lots with this letter</string>
+</resources>
